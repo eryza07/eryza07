@@ -12,9 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I have **7** public repositories on GitHub
-- ⭐ **0** total stars earned across my projects
-- 👥 **1** followers · **2** following
+Hi everyone, I'm Eryza, a developer and a vibecoder, nice to meet you all
 
 ---
 
@@ -39,16 +37,15 @@
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [**animation**](https://github.com/eryza07/animation) | — | ⭐ 0 | JavaScript |
-| [**Simtadik-v2**](https://github.com/eryza07/Simtadik-v2) | — | ⭐ 0 | JavaScript |
-| [**simtadik**](https://github.com/eryza07/simtadik) | — | ⭐ 0 | JavaScript |
-| [**layarastra**](https://github.com/eryza07/layarastra) | — | ⭐ 0 | JavaScript |
-| [**Portofolio**](https://github.com/eryza07/Portofolio) | — | ⭐ 0 | CSS |
-| [**KICAU-KICAU-**](https://github.com/eryza07/KICAU-KICAU-) | — | ⭐ 0 | CSS |
+| [**animation**](https://github.com/eryza07/animation) | Proyek Untuk mempermudah dalam pekkerjan animasi | ⭐ 0 | JavaScript |
+| [**Simtadik-v2**](https://github.com/eryza07/Simtadik-v2) | sistem pertemuan tamu yang dikhususkan untuk kepala sekoah | ⭐ 0 | JavaScript |
+| [**simtadik**](https://github.com/eryza07/simtadik) | prototype awal | ⭐ 0 | JavaScript |
+| [**layarastra**](https://github.com/eryza07/layarastra) | layanan streaming animasi inde dan film indie | ⭐ 0 | JavaScript |
+| [**Portofolio**](https://github.com/eryza07/Portofolio) | my portfolio | ⭐ 0 | CSS |
+| [**KICAU-KICAU-**](https://github.com/eryza07/KICAU-KICAU-) | pemulaan | ⭐ 0 | CSS |
 
 ---
 
-## 💬 Top Languages
 
 <div align="center">
 
@@ -90,7 +87,7 @@
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful! ⭐**
+**⭐ Kenapa aku WWNNNIII! ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=80&section=footer" width="100%" />
 
